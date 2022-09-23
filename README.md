@@ -1,2 +1,2 @@
 # Object Detection App Using Faster RCNN
-[https://deepshikhar-streamlit02-app2-mlk0zj.streamlitapp.com/]You can view the application here 
+<a href="https://deepshikhar-streamlit02-app2-mlk0zj.streamlitapp.com/" target="_blank">You can view the application here </a>
