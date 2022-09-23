@@ -1,4 +1,0 @@
-name: tf
-channels:
-  - defaults
-prefix: /Users/deepshikhar/opt/anaconda3/envs/tf
