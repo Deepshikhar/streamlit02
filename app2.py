@@ -1,7 +1,7 @@
 import streamlit as st
 
 import time
-import torchvision
+# import torchvision
 from torchvision import  transforms 
 import torch
 from torch import no_grad
