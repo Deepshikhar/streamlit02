@@ -12,7 +12,7 @@ import cv2
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
-st.set_page_config(page_title="Object Detector")
+
 st.title("Object Detection using Faster_RCNN")
 #  91 Classes
 COCO_INSTANCE_CATEGORY_NAMES = [
